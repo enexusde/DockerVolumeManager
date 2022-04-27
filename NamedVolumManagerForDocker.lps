@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="NamedVolumManagerForDocker.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="35" Y="13"/>
+        <UsageCount Value="22"/>
+      </Unit>
+      <Unit>
+        <Filename Value="namedvolummanagermainform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="NamedVolumManagerMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="NamedVolumManagerMainForm"/>
+        <TopLine Value="9"/>
+        <CursorPos X="63" Y="51"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="dockerapi.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DockerAPI"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="8"/>
+        <CursorPos X="2" Y="43"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-json\src\fpjson.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="766"/>
+        <CursorPos X="10" Y="794"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-web\src\base\fphttpclient.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1466"/>
+        <CursorPos X="3" Y="1473"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="928"/>
+        <CursorPos X="14" Y="955"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\streams.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="199"/>
+        <CursorPos X="7" Y="220"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="18">
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="19" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="24" Column="52"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="26" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="38" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="24" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="23"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="24"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="26"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="27"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="28"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="23"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="25" Column="55"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="37" Column="66"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="17" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="34" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="namedvolummanagermainform.pas"/>
+        <Caret Line="21" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="46" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="34" Column="63" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="dockerapi.pas"/>
+        <Caret Line="32" Column="15" TopLine="5"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

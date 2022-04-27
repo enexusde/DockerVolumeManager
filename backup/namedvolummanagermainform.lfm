@@ -1,0 +1,65 @@
+object NamedVolumManagerMain: TNamedVolumManagerMain
+  Left = 291
+  Height = 362
+  Top = 637
+  Width = 709
+  Caption = 'Named Volume Manager for Docker©'
+  ClientHeight = 362
+  ClientWidth = 709
+  OnCreate = FormCreate
+  LCLVersion = '2.2.0.4'
+  object NamedVolumLabel: TLabel
+    Left = 8
+    Height = 15
+    Top = 7
+    Width = 90
+    Caption = 'Named Volumes:'
+  end
+  object NamedVolumeTree: TTreeView
+    Left = 10
+    Height = 321
+    Top = 29
+    Width = 550
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    TabOrder = 0
+  end
+  object Ok: TBitBtn
+    Left = 568
+    Height = 30
+    Top = 30
+    Width = 136
+    Anchors = [akTop, akRight]
+    Cancel = True
+    Caption = 'Ok'
+    Default = True
+    OnClick = OkClick
+    TabOrder = 1
+  end
+  object Remove: TBitBtn
+    Left = 568
+    Height = 30
+    Top = 112
+    Width = 136
+    Anchors = [akTop, akRight]
+    Caption = 'Remove'
+    TabOrder = 2
+  end
+  object Clone: TBitBtn
+    Left = 568
+    Height = 30
+    Top = 152
+    Width = 136
+    Anchors = [akTop, akRight]
+    Caption = 'Clone'
+    TabOrder = 3
+  end
+  object CreateBackup: TBitBtn
+    Left = 568
+    Height = 30
+    Top = 72
+    Width = 136
+    Anchors = [akTop, akRight]
+    Caption = 'Create'
+    TabOrder = 4
+  end
+end
